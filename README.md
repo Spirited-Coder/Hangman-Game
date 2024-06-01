@@ -1,6 +1,6 @@
 # Hangman-Game
 ## Project Overview
-The given code implements a simple command-line version of the classic Hangman game. The game selects a word randomly from a predefined list of words, and the player attempts to guess the word by guessing one letter at a time. The player has a limited number of attempts (tries) to guess the word correctly.
+This is a simple command-line version of the classic Hangman game. The game selects a word randomly from a predefined list of words, and the player attempts to guess the word by guessing one letter at a time. The player has a limited number of attempts (tries) to guess the word correctly.
 
 ## How to Play
 <ul>The game randomly selects a word from the predefined list.</ul>
